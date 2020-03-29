@@ -53,6 +53,7 @@ function loadPlaceFromAPIs(position) {
 
 
 window.onload = () => {
+    alert('test 0.0.1')
     const scene = document.querySelector('a-scene');
 
     // first get current user location
